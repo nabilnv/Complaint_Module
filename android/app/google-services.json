@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368537736108",
+    "project_id": "ccs-sep",
+    "storage_bucket": "ccs-sep.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368537736108:android:63ced0e5fed5c7d76d2009",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxqoPnqGAA8w2Dw-wnPscVffjNMpg5uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368537736108:android:125c7100790db87e6d2009",
+        "android_client_info": {
+          "package_name": "com.example.sep_module_razzaq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxqoPnqGAA8w2Dw-wnPscVffjNMpg5uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

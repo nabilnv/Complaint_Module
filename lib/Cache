@@ -1,0 +1,8 @@
+Future<void> getUserSession() async {
+  final prefs = await SharedPreferences.getInstance();
+  int? userId = prefs.getInt('userId');
+  String? userRole = prefs.getString('userRole');
+
+  print('User ID: $userId');
+  print('User Role: $userRole');
+}
